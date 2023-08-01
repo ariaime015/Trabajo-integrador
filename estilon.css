@@ -102,7 +102,7 @@ header a {
   
   .cont-card-proyecto {
     background-color: #b9b4ad;
-    width: 350px;
+    width: 300px;
     padding: 10px 30px;
     text-align: center;
     border-radius: 5px;
@@ -201,13 +201,13 @@ footer {
   .cont-proyectos {
     grid-template-columns: repeat(2, 1fr);
   }
-  .cont-section-contacto {
+  .cont-contacto {
     padding: 30px;
     background-color: rgb(242, 242, 242);
     margin-top: 20px;
   }
 
-  .cont-section-contacto form {
+  .cont-contacto form {
     width: 100%;
     margin: auto;
   }
@@ -219,13 +219,13 @@ footer {
     grid-template-columns: 1fr;
   }
 
-  .cont-section-contacto {
+  .cont-contacto {
     padding: 30px;
     background-color: rgb(242, 242, 242);
     margin-top: 20px;
   }
 
-  .cont-section-contacto form {
+  .cont-contacto form {
     width: 100%;
     margin: auto;
   }
